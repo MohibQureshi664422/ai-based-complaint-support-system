@@ -1,0 +1,141 @@
+text,category
+internet connection is slow and wifi disconnects,Technical Issue
+website server is down with technical errors,Technical Issue
+application crashes and software fails to load,Technical Issue
+network router connection is not working,Technical Issue
+page shows an error and cannot open,Technical Issue
+computer system freezes during use,Technical Issue
+the online portal shows a blank screen after login,Technical Issue
+video calls keep freezing because of unstable connectivity,Technical Issue
+the mobile app fails to synchronize my information,Technical Issue
+the website returns an internal server error,Technical Issue
+my device cannot establish a wireless connection,Technical Issue
+the application becomes unresponsive when saving data,Technical Issue
+the download stops before the file is complete,Technical Issue
+the upload feature displays a technical failure message,Technical Issue
+the server cannot process requests at the moment,Technical Issue
+the software installation fails with an error code,Technical Issue
+the website keeps redirecting to an error page,Technical Issue
+the internet speed drops significantly during online meetings,Technical Issue
+the application dashboard does not display any information,Technical Issue
+the network equipment frequently loses connectivity,Technical Issue
+payment deducted but subscription inactive,Billing/Payment
+charged twice for my invoice payment,Billing/Payment
+refund missing from bank account,Billing/Payment
+billing amount is incorrect on the bill,Billing/Payment
+transaction failed but money deducted,Billing/Payment
+need receipt for paid subscription,Billing/Payment
+my monthly invoice contains an unexpected service fee,Billing/Payment
+the bank transfer was completed but payment is still pending,Billing/Payment
+I need clarification about an additional subscription charge,Billing/Payment
+the amount deducted is different from the displayed price,Billing/Payment
+my payment receipt contains incorrect transaction details,Billing/Payment
+the refund amount is lower than the original purchase amount,Billing/Payment
+the system generated an invoice for a cancelled subscription,Billing/Payment
+I was billed for a service that I never purchased,Billing/Payment
+the online checkout charged the wrong amount,Billing/Payment
+my account balance does not reflect the latest deposit,Billing/Payment
+the payment confirmation email shows an incorrect total,Billing/Payment
+the company has not returned my security deposit,Billing/Payment
+I need a correction to my subscription billing cycle,Billing/Payment
+the invoice includes an unauthorized financial charge,Billing/Payment
+cannot login because password is wrong,Account Problem
+account locked and username not recognized,Account Problem
+forgot password need to reset login,Account Problem
+cannot change my email profile,Account Problem
+my account was hacked and access blocked,Account Problem
+registration verification email not received,Account Problem
+my user profile displays another person's information,Account Problem
+the authentication code is rejected every time,Account Problem
+I cannot update my registered phone number,Account Problem
+my user account has been disabled unexpectedly,Account Problem
+the sign in page rejects my correct credentials,Account Problem
+I cannot complete the identity verification process,Account Problem
+my username is missing from the registered user list,Account Problem
+the password recovery link has expired,Account Problem
+my profile settings cannot be saved successfully,Account Problem
+I need assistance changing my registered email address,Account Problem
+my two factor authentication is not working,Account Problem
+the registration form says my username already exists,Account Problem
+I cannot access my personal account dashboard,Account Problem
+my account permissions were changed without my approval,Account Problem
+service is delayed and support is poor,Service Complaint
+delivery service arrived late,Service Complaint
+no response from customer service,Service Complaint
+waiting too long for support assistance,Service Complaint
+service appointment cancelled without notice,Service Complaint
+unhappy with the quality of service,Service Complaint
+the cleaning service was not completed as promised,Service Complaint
+the repair team failed to finish the scheduled maintenance,Service Complaint
+the company has repeatedly postponed my installation appointment,Service Complaint
+I have contacted customer care several times without a resolution,Service Complaint
+the service provider did not fulfill the agreed conditions,Service Complaint
+the maintenance work was incomplete and poorly performed,Service Complaint
+the scheduled home visit never took place,Service Complaint
+the company has ignored my repeated service requests,Service Complaint
+the delivery company failed to meet its promised deadline,Service Complaint
+I am dissatisfied with the overall support experience,Service Complaint
+the requested assistance was provided much later than expected,Service Complaint
+the service contract obligations have not been fulfilled,Service Complaint
+the customer care team closed my request without resolving it,Service Complaint
+the repair service has been postponed multiple times,Service Complaint
+staff member was rude and disrespectful,Staff Complaint
+employee behaved badly and insulted me,Staff Complaint
+manager refused help and shouted,Staff Complaint
+staff misconduct and harassment complaint,Staff Complaint
+worker threatened customer at reception,Staff Complaint
+employee attitude was unprofessional,Staff Complaint
+the receptionist spoke to me in an aggressive tone,Staff Complaint
+a company representative made insulting remarks,Staff Complaint
+the office worker behaved in a discriminatory manner,Staff Complaint
+an employee used inappropriate language during our discussion,Staff Complaint
+the supervisor was hostile and disrespectful,Staff Complaint
+a staff member deliberately embarrassed me in public,Staff Complaint
+the customer service representative shouted during our call,Staff Complaint
+the security guard behaved rudely toward visitors,Staff Complaint
+an employee made threatening comments during my visit,Staff Complaint
+the receptionist refused to treat me respectfully,Staff Complaint
+a team member acted unprofessionally toward a customer,Staff Complaint
+the manager used offensive words in the meeting,Staff Complaint
+the support representative mocked my concerns,Staff Complaint
+a staff member behaved improperly while handling my request,Staff Complaint
+product arrived broken and damaged,Product Issue
+item is defective and needs replacement,Product Issue
+wrong product delivered in the package,Product Issue
+device battery stopped working,Product Issue
+purchased item missing parts,Product Issue
+product quality is bad and packaging damaged,Product Issue
+the purchased appliance has a manufacturing defect,Product Issue
+the delivered equipment does not match the product description,Product Issue
+my new device produces an unusual sound during operation,Product Issue
+the item stopped functioning shortly after purchase,Product Issue
+the package contains the wrong model of the ordered product,Product Issue
+the electronic device overheats during normal use,Product Issue
+the product has visible scratches and broken components,Product Issue
+the replacement item is also defective,Product Issue
+the equipment does not meet the advertised specifications,Product Issue
+the purchased furniture arrived with damaged pieces,Product Issue
+the product packaging was intact but the contents were broken,Product Issue
+the new machine fails to operate according to its manual,Product Issue
+the item has poor build quality and loose components,Product Issue
+the delivered product is missing essential accessories,Product Issue
+what are your opening hours,General Inquiry
+how can I contact your office,General Inquiry
+please provide information about services,General Inquiry
+where is your branch located,General Inquiry
+what documents are required,General Inquiry
+how do I submit a general inquiry,General Inquiry
+could you explain the process for becoming a customer,General Inquiry
+where can I find your official contact information,General Inquiry
+please explain the steps involved in registration,General Inquiry
+what types of assistance does your organization provide,General Inquiry
+is customer assistance available on weekends,General Inquiry
+can you provide details about the application procedure,General Inquiry
+what is the expected processing time for new requests,General Inquiry
+where can I find your terms and conditions,General Inquiry
+please share information about your available plans,General Inquiry
+what are the requirements for using your online services,General Inquiry
+how can I schedule an appointment with your office,General Inquiry
+is there a guide explaining how the system works,General Inquiry
+where can I learn about the different support departments,General Inquiry
+can you explain how to check the progress of a request,General Inquiry

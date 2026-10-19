@@ -1,0 +1,35 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Database
+*.sqlite3
+*.db
+
+# React
+node_modules/
+dist/
+
+# Backups and logs
+backup_*/
+*.log
+.vscode/
+
+# Private uploads
+private_media/
+media/
+
+# Old backup files
+*_backup_*.py
+
+# Duplicate project folder
+/ai_complaint_system/

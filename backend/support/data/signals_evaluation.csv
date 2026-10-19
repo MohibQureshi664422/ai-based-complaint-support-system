@@ -1,0 +1,11 @@
+text,priority,sentiment
+Fire in the building needs emergency help,High,Negative
+Someone hacked my account and stole money,High,Negative
+The staff threat made me feel unsafe,High,Negative
+What is the office contact number,Low,Neutral
+Please tell me the branch opening hours,Low,Neutral
+Thanks for resolving this with excellent service,Low,Positive
+I appreciate your friendly support,Low,Positive
+My payment failed and subscription is inactive,Medium,Negative
+The item was delivered damaged and broken,Medium,Negative
+I need help resetting my forgotten password,Medium,Neutral

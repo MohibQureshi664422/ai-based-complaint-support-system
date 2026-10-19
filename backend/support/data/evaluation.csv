@@ -1,0 +1,71 @@
+text,category
+Wireless network drops whenever I join a meeting,Technical Issue
+The software page cannot load and reports a server error,Technical Issue
+The application freezes whenever I open my dashboard,Technical Issue
+My internet connection disconnects several times a day,Technical Issue
+The website displays an error when I submit a form,Technical Issue
+I cannot upload documents because the portal keeps crashing,Technical Issue
+The mobile application closes immediately after opening,Technical Issue
+The online system is unavailable during working hours,Technical Issue
+My computer cannot connect to the company network,Technical Issue
+The website takes too long to load and stops responding,Technical Issue
+Subscription is not active after my card payment,Billing/Payment
+My bill includes the same transaction twice,Billing/Payment
+Money was deducted from my bank account without confirmation,Billing/Payment
+I received an incorrect invoice for my monthly subscription,Billing/Payment
+The payment was successful but my balance was not updated,Billing/Payment
+I was charged extra fees that were not mentioned earlier,Billing/Payment
+My refund has not been processed after cancellation,Billing/Payment
+The billing statement shows an amount higher than expected,Billing/Payment
+I paid the invoice but the system still shows an unpaid balance,Billing/Payment
+A duplicate charge appeared on my credit card statement,Billing/Payment
+I am locked out and need a password reset,Account Problem
+Profile email cannot be changed in my account,Account Problem
+My login credentials are not being accepted,Account Problem
+I forgot my password and cannot access my account,Account Problem
+My account has been suspended without explanation,Account Problem
+I cannot update my personal information in my profile,Account Problem
+The verification code is not arriving on my registered email,Account Problem
+Someone changed my account password without permission,Account Problem
+I am unable to register a new user account,Account Problem
+My account shows incorrect personal details,Account Problem
+Delivery service has been delayed for days,Service Complaint
+Customer assistance never responds to my request,Service Complaint
+The service team missed the scheduled appointment,Service Complaint
+I have been waiting for customer support for several days,Service Complaint
+The promised service was not provided on time,Service Complaint
+My maintenance request has been ignored repeatedly,Service Complaint
+The company failed to complete the service as agreed,Service Complaint
+The technician did not arrive at the scheduled time,Service Complaint
+My complaint remains unresolved despite repeated follow-ups,Service Complaint
+The service quality is consistently below expectations,Service Complaint
+Reception employee shouted at me and was disrespectful,Staff Complaint
+A staff member insulted me at the office,Staff Complaint
+The receptionist behaved rudely during my visit,Staff Complaint
+An employee used offensive language while speaking to me,Staff Complaint
+The support agent was disrespectful during our conversation,Staff Complaint
+A worker refused to listen and behaved unprofessionally,Staff Complaint
+The manager spoke to me in an insulting manner,Staff Complaint
+A staff member threatened me during an argument,Staff Complaint
+The office employee treated customers unfairly,Staff Complaint
+The representative made inappropriate comments about me,Staff Complaint
+The item was delivered with missing parts,Product Issue
+The product arrived damaged and does not function,Product Issue
+The device stopped working after only two days,Product Issue
+The purchased item has a broken component,Product Issue
+The product does not match the advertised specifications,Product Issue
+My new appliance makes unusual noises during operation,Product Issue
+The equipment overheats after a few minutes of use,Product Issue
+The package contained a defective item,Product Issue
+The product quality is much worse than described,Product Issue
+The replacement item has the same manufacturing defect,Product Issue
+Please tell me the branch location and opening time,General Inquiry
+Which documents should I bring for registration,General Inquiry
+What are your customer service working hours,General Inquiry
+How can I contact the support department,General Inquiry
+Where can I find information about your services,General Inquiry
+What is the procedure for submitting an application,General Inquiry
+Do you provide assistance during public holidays,General Inquiry
+How long does the registration process usually take,General Inquiry
+Can you explain the available subscription plans,General Inquiry
+Where can I read the terms and conditions,General Inquiry

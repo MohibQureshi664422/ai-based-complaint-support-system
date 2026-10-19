@@ -1,0 +1,25 @@
+text,priority,sentiment
+There is a fire and immediate danger,High,Negative
+My account was hacked and funds stolen,High,Negative
+An employee threatened me and I feel unsafe,High,Negative
+The electrical device is leaking and caused injury,High,Negative
+Emergency service outage affects all users,High,Negative
+Fraudulent transaction urgently needs investigation,High,Negative
+I need office opening hours,Low,Neutral
+Please explain the registration documents,Low,Neutral
+Where is the nearest branch located,Low,Neutral
+How can I contact support,Low,Neutral
+Thank you for the excellent assistance,Low,Positive
+I appreciate the helpful customer service,Low,Positive
+Payment deducted but subscription inactive,Medium,Negative
+My network connection keeps disconnecting,Medium,Negative
+The delivered item is broken and damaged,Medium,Negative
+An employee was rude and unprofessional,Medium,Negative
+My invoice has an incorrect charge,Medium,Neutral
+I need to update my account profile,Medium,Neutral
+The package arrived late and I am unhappy,Medium,Negative
+I forgot my password and need access,Medium,Neutral
+I am pleased with the prompt resolution,Low,Positive
+Your team resolved my issue successfully,Low,Positive
+The service was great and staff friendly,Low,Positive
+I am angry because support ignored my request,Medium,Negative
